@@ -3,5 +3,12 @@
   "packageManager": "yarn@4.10.3",
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "scripts": {
+    "chain": "yarn workspace @se-2/hardhat chain",
+    "deploy": "yarn workspace @se-2/hardhat deploy",
+    "start": "yarn workspace @se-2/nextjs start",
+    "build": "yarn workspace @se-2/nextjs build",
+    "test": "yarn workspace @se-2/hardhat test"
+  }
 }
