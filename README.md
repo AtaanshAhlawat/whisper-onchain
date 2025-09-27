@@ -1,12 +1,9 @@
 # 🗣️ Whisper OnChain
 
-<h4 align="center">
-  A decentralized anonymous feedback board built on Ethereum
-</h4>
 
-<p align="center">
+<h4 align="center">
   A decentralized platform for honest, anonymous feedback
-</p>
+</h4>
 
 Whisper OnChain is a decentralized application that allows users to submit honest, anonymous feedback directly on the blockchain. Built for ETHGlobal New Delhi, this platform ensures complete anonymity while maintaining the integrity of feedback through blockchain technology.
 
