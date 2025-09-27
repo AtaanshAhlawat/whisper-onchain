@@ -1,4 +1,7 @@
 {
   "name": "whisper-onchain",
-  "packageManager": "yarn@4.10.3"
+  "packageManager": "yarn@4.10.3",
+  "workspaces": [
+    "packages/*"
+  ]
 }
