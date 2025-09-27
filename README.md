@@ -5,9 +5,7 @@
 </h4>
 
 <p align="center">
-  <a href="#features">Features</a> •
-  <a href="#getting-started">Getting Started</a> •
-  <a href="#tech-stack">Tech Stack</a>
+  A decentralized platform for honest, anonymous feedback
 </p>
 
 Whisper OnChain is a decentralized application that allows users to submit honest, anonymous feedback directly on the blockchain. Built for ETHGlobal New Delhi, this platform ensures complete anonymity while maintaining the integrity of feedback through blockchain technology.
